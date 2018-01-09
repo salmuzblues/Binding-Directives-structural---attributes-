@@ -1,0 +1,10 @@
+
+.red {
+  color: green;
+  text-decoration: underline;
+  font-family: "American Typewriter";
+}
+
+.bolder {
+  font-weight: bold;
+}
